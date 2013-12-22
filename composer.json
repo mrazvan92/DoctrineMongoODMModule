@@ -48,10 +48,5 @@
             "DoctrineMongoODMModule\\": "src/",
             "DoctrineMongoODMModuleTest\\": "tests/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.8.x-dev"
-        }
     }
 }
